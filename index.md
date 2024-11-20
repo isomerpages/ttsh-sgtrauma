@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Singapore Trauma and Acute Care Conference
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
