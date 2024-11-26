@@ -2,4 +2,4 @@ collections:
   faculty:
     output: true
     order:
-      - Faculty.md
+      - Scientific Committee.md
