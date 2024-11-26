@@ -4,7 +4,7 @@ permalink: /scientific-committee/
 variant: tiptap
 description: ""
 ---
-<h2>Meet our Scientifc Committee</h2>
+<h2>Meet our Scientific Committee</h2>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Lee Yue Yen" src="/images/Faculty/Dr_Lee_Yue_Yen_Resus_Bush_Halfbody.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Lee Yue Yen</div><div class="isomer-card-description">Pre-hospital Track Lead</div><div class="isomer-card-link">View profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
@@ -32,4 +32,4 @@ description: ""
 </div>
 </a>
 </div>
-<p></p>
+<p>i</p>
