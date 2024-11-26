@@ -2,5 +2,6 @@ collections:
   faculty:
     output: true
     order:
+      - Local Faculty.md
       - Scientific Committee.md
       - International Faculty.md
