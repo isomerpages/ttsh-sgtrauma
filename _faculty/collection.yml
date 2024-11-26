@@ -2,4 +2,5 @@ collections:
   faculty:
     output: true
     order:
+      - International Faculty.md
       - Scientific Committee.md
