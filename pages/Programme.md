@@ -4,12 +4,17 @@ permalink: /programme/
 variant: tiptap
 description: ""
 ---
-<p>STACC 2025 Scientific Programme</p>
+<h3>STACC 2025 Scientific Programme</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Day 1 (17 July 2025, Thursday)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<details class="isomer-details">
+<summary>8:40am Keynote Lecture</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
 </div>
 </details>
 <details class="isomer-details">
@@ -22,13 +27,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Opening Address</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><em>Teo Li-Tserng</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Teo Li-Tserng</em>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -39,6 +44,19 @@ description: ""
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>8:40am Keynote Lecture</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The Trauma Chain of Survival</p>
@@ -50,20 +68,10 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>8:40am Keynote Lecture</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The Trauma Chain of Survival</p>
-<p><em>Martin Schreiber</em>
-</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -144,6 +152,267 @@ description: ""
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>17 July 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<details class="isomer-details">
+<summary>Registration</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>8:30am Welcome Address</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Opening Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Li-Tserng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guest-of-Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janil Puthucheary</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>8:40am Keynote Lecture</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Trauma Chain of Survival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Martin Schreiber</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>9:30am Teabreak</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>☕</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>10:15am Breakout</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Crushed</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Challenges in Acute Care Surgery</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Difficult Decisions in Multidiscplinary Trauma</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Teaching the Non-Surgeons about Trauma: Do We Understand?</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:15am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crowd Crush - The Itaewon Experience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:15am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boerhaave Syndrome - Tips in Management of A Rare Entity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+</p>
+<details class="isomer-details">
+<summary><strong>8:40am Keynote Lecture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p>
+<br>
+<br>
+</p>
 <p></p>
 </div>
 </details>
