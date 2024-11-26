@@ -1,4 +1,5 @@
 collections:
   faculty:
     output: true
-    order: []
+    order:
+      - Faculty.md
