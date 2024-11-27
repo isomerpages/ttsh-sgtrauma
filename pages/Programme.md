@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>STACC 2025 Scientific Programme</h3>
+<h4>Option A: Accordian within Accordian</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>17 July 2025</summary>
@@ -375,6 +376,8 @@ description: ""
 </div>
 </details>
 </div>
+<p></p>
+<h4>Option B: Accordian within Table</h4>
 <p>17 July 2025</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -518,5 +521,16 @@ description: ""
 </table>
 </div>
 </details>
+</div>
+<h3>Option C: Insert Image</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p></p>
