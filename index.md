@@ -12,16 +12,6 @@ sections:
       background: /images/Homepage/2023_Summit_Participants_Laugh.jpg
       button: Register here
       url: https://form.gov.sg/671f0a292cc50a6ea71cce55
-      key_highlights:
-        - title: Programme
-          description: ""
-          url: /programme/
-        - title: Our Faculty
-          description: ""
-          url: /faculty/
-        - title: Venue
-          description: ""
-          url: ""
       variant: center
       backgroundColor: gray
   - infopic:
