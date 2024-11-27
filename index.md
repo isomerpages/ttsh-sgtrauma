@@ -25,12 +25,14 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: What's Next?
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "Discover the inspiration behind our theme: Navigating
+        Uncertainties, Inspiring Solutions & Building Resilience"
+      button: Come hear from us
       alt: Image alt text
+      image: /images/Theme_Banner.png
+      url: /faculty/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
