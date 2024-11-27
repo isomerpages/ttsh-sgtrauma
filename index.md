@@ -32,7 +32,7 @@ sections:
       button: Come hear from us
       alt: Image alt text
       image: /images/Theme_Banner.png
-      url: /faculty/
+      url: /theme/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
