@@ -1,5 +1,9 @@
 logo: /images/Homepage/STACC_Logo_with_White_bg.png
 links:
+  - title: About STACC
+    url: /about
+  - title: Registration
+    url: /registration
   - title: Programme
     url: /programme/
   - title: Faculty
