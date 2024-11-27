@@ -185,7 +185,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>07:30</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,6 +372,150 @@ description: ""
 </table>
 </div>
 </details>
+</div>
+</details>
+</div>
+<p>17 July 2025</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>07:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>08:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Opening Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adj A/Prof Teo Li-Tserng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guest-of-Honor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Janil Puthucheary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Global Overview of Trauma</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adj A/Prof Teo Li-Tserng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>08:40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keynote Lecture: Trauma Chain of Survival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Martin A. Scheiber</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tea Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>10:15 Crushed!</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crowd Crush - The Itaewon Experience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Sang Do Shin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crowds - How to Anticipate, Prepare and Prevent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dennis Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:55</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Turkiye Earthquake Experience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPT(Dr) Amos Lee, LTC Lok Wee Keong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11:15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crush Syndrome and Injuries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Prof Goh Siang Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11:35</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Q&amp;A</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
