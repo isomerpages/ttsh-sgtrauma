@@ -4,7 +4,7 @@ title: Singapore Trauma and Acute Care Conference
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Get Early Bird discount if you sign up now!
+notification: Sign up now to enjoy Early Bird discounts!
 sections:
   - hero:
       title: Singapore Trauma and Acute Care Conference
@@ -13,23 +13,17 @@ sections:
       button: Register here
       url: https://form.gov.sg/671f0a292cc50a6ea71cce55
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Programme
+          description: ""
+          url: /programme/
+        - title: Our Faculty
+          description: ""
+          url: /faculty/
+        - title: Venue
+          description: Welcome to Singapore!
+          url: ""
       variant: center
       backgroundColor: gray
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -37,4 +31,10 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
