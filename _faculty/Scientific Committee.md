@@ -10,7 +10,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Sunder Balasubramaniam" src="/images/Faculty/Dr_Sunder_B_CHI_Linkbridge_Half_body.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Sunder Balasubramaniam" src="/images/Faculty/Dr_Sunder_Square.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
