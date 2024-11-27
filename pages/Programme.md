@@ -9,7 +9,6 @@ description: ""
 <details class="isomer-details">
 <summary>17 July 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <details class="isomer-details">
 <summary>Registration</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -20,7 +19,6 @@ description: ""
 <summary><strong>8:30am Welcome Address</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -99,7 +97,7 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <details class="isomer-details">
-<summary><strong>Summit </strong>
+<summary><strong>Summit</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -210,9 +208,6 @@ description: ""
 </p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -220,9 +215,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -230,9 +222,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -240,9 +229,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -250,9 +236,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -260,9 +243,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -270,9 +250,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -280,9 +257,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -290,9 +264,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-</p>
 <details class="isomer-details">
 <summary><strong>8:40am Keynote Lecture</strong>
 </summary>
@@ -300,11 +271,6 @@ description: ""
 <p></p>
 </div>
 </details>
-<p>
-<br>
-<br>
-</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
