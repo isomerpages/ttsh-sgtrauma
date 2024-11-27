@@ -20,7 +20,7 @@ sections:
           description: ""
           url: /faculty/
         - title: Venue
-          description: Welcome to Singapore!
+          description: ""
           url: ""
       variant: center
       backgroundColor: gray
