@@ -23,6 +23,15 @@ sections:
       alt: Image alt text
       image: /images/Theme_Banner.png
       url: /theme
+  - infopic:
+      title: Hear From Our Chairperson
+      subtitle: Add an image and text
+      id: infopic
+      description: Adj. A/Prof. Teo Li-Tserng welcomes you!
+      button: View message
+      url: /chairpersons-welcome-message
+      image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
