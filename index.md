@@ -15,14 +15,14 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
-      title: What's Next?
+      title: Discover Our Theme
       id: infopic
-      description: "Discover the inspiration behind our theme: Navigating
+      description: "Discover the inspiration behind our theme:  Navigating
         Uncertainties, Inspiring Solutions & Building Resilience"
-      button: Come hear from us
+      button: View more
       alt: Image alt text
       image: /images/Theme_Banner.png
-      url: /theme/
+      url: /theme
   - infobar:
       title: Infobar title
       subtitle: Subtitle
