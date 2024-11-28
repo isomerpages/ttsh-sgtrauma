@@ -32,10 +32,12 @@ sections:
       url: /chairperson-s-welcome-message/
       image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
       alt: Image alt text
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: STACC 2023
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: View highlights
+      url: /stacc-2023/
+      alt: Image alt text
 ---
