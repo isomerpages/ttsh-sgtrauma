@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Organising Committee.md
       - Chairperson's Welcome Message.md
       - About.md
