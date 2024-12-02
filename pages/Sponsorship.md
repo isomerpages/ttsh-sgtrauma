@@ -37,7 +37,24 @@ visibility and amplify awareness, creating a lasting impression on your
 audience.</p>
 </li>
 </ul>
+<hr>
+<p>Sponsorship packages are available in a range of categories. If you have
+specific requirements, please feel free to share with us. We are happy
+to tailor a package that best suits your needs and interests.</p>
 <p></p>
+<p>Please contact us at <a href="mailto:trauma@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">trauma@ttsh.com.sg</a> if you wish to partner
+us.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sponsorship Prospectus</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">STACC 2025</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
