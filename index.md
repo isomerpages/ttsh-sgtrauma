@@ -21,7 +21,7 @@ sections:
         Navigating Uncertainties, Inspiring Solutions & Building Resilience"
       button: View more
       alt: Image alt text
-      image: /images/Theme_Banner.png
+      image: /images/Theme_and_Venue.png
       url: /theme
   - infopic:
       title: Hear From Our Chairperson
