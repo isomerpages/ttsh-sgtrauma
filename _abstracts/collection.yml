@@ -2,5 +2,5 @@ collections:
   abstracts:
     output: true
     order:
-      - Submission Guidelines.md
       - Abstract Submission.md
+      - Submission Guidelines.md
