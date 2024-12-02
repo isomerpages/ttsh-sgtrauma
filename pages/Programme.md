@@ -5,6 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h3>STACC 2025 Scientific Programme</h3>
+<p><strong>Explore the Frontiers of Trauma and Acute Care</strong>
+</p>
+<p>STACC 2025 invites you to delve into a dynamic lineup of scientific tracks
+tailored to address the pressing challenges and innovations in modern healthcare.
+From <em>Critical Care and Anaesthesia</em> to <em>Emergency Medicine</em>, <em>Pre-Hospital Care</em>,
+and <em>Trauma</em>, our programme spans the breadth of acute care disciplines,
+ensuring something for every practitioner.</p>
+<p>Dive deeper into specialized fields such as <em>Orthopaedics</em> and <em>Neurosurgery/Spine</em>,
+and discover cutting-edge strategies to enhance outcomes in complex cases.
+Complementing these focused tracks, the <em>Free Paper</em> segment provides
+a platform for emerging voices to share pioneering research, fostering
+collaboration and thought leadership.</p>
+<p>Join us to navigate evolving healthcare landscapes, gain actionable insights,
+and forge connections that will shape the future of trauma and acute care.</p>
+<p></p>
+<p>(Insert quotes from track leads)</p>
+<hr>
+<p></p>
 <h4>Option A: Accordian within Accordian</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
