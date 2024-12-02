@@ -4,7 +4,7 @@ title: Singapore Trauma and Acute Care Conference
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Sign up now to enjoy Early Bird discounts!
+notification: Sign up now to enjoy Flash Deal rates!
 sections:
   - hero:
       title: Singapore Trauma and Acute Care Conference
@@ -25,19 +25,25 @@ sections:
       url: /theme
   - infopic:
       title: Hear From Our Chairperson
-      subtitle: Add an image and text
       id: infopic
-      description: Adj. A/Prof. Teo Li-Tserng welcomes you!
+      description: Adj. A/Prof. Teo Li-Tserng welcomes you to STACC and Singapore!
       button: View message
       url: /chairperson-s-welcome-message/
       image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
       alt: Image alt text
   - infopic:
       title: STACC 2023
+      id: infopic
+      description: Diverse Challenges, Sharing Solutions
+      button: View highlights
+      url: /stacc-2023/
+      alt: Image alt text
+      image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
+  - infopic:
+      title: Infopic
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: View highlights
-      url: /stacc-2023/
+      button: Button Text
       alt: Image alt text
 ---
