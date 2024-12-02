@@ -40,10 +40,9 @@ sections:
       alt: Image alt text
       image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Partnering Institutions
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: STACC is proudly supported by institutions across Singapore.
       alt: Image alt text
+      image: /images/Homepage/Partnering_Institutions.png
 ---
