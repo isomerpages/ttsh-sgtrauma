@@ -24,8 +24,8 @@ register.</p>
 Goods &amp; Services Tax (GST).
 <br>2) ASEAN countries include: Brunei Darussalam, Cambodia, Indonesia, Lao
 PDR, Malaysia, Myanmar, Phillippines, Singapore, Thailand &amp; Viet Nam.
-<br>3) LMIC: Lower-Middle Income Country. You may refer to the country classification
-<a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener nofollow" target="_blank">here</a>.</p>
+<br>3) LMIC: Lower-Middle Income Country. For list of LMIC, please visit
+<a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener nofollow" target="_blank">here</a>for the country classification.</p>
 </td>
 </tr>
 </tbody>
@@ -35,3 +35,11 @@ PDR, Malaysia, Myanmar, Phillippines, Singapore, Thailand &amp; Viet Nam.
 <a href="https://form.gov.sg/671f0a292cc50a6ea71cce55" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Registration will only be confirmed for those who have selected the appropriate
 category and completed payment in full.</p>
+<h2>Withdrawal &amp; Refund</h2>
+<p>For any withdrawals, we regret that no refund will be made once payment
+is received.</p>
+<p>For replacements, please notify the organiser in writing at least 4 weeks
+prior to the conference by sending an email to <a href="mailto:trauma@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">trauma@ttsh.com.sg</a>.</p>
+<p><em>The organiser reserves the right to cancel the conference should unforeseen circumstances necessitate it.</em>
+</p>
+<p></p>
