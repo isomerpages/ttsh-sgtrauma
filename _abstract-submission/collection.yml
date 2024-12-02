@@ -1,4 +1,5 @@
 collections:
   abstract-submission:
     output: true
-    order: []
+    order:
+      - Abstract Submission.md
