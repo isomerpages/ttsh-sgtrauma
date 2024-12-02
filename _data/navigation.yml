@@ -8,11 +8,11 @@ links:
     url: /programme/
   - title: Faculty
     collection: faculty
-  - title: Sponsors & Partners
+  - title: Abstracts
+    collection: abstracts
+  - title: Sponsors
     url: /sponsorship
   - title: Venue
     url: /venue
   - title: Contact Us
     url: /contact-us/
-  - title: Abstracts
-    collection: abstracts
