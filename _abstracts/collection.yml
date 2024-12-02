@@ -1,5 +1,5 @@
 collections:
-  abstract-submission:
+  abstracts:
     output: true
     order:
       - Abstract Submission.md
