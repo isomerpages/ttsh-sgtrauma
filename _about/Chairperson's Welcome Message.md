@@ -4,10 +4,12 @@ permalink: /chairperson-s-welcome-message/
 variant: tiptap
 description: ""
 ---
-<h2>Welcome Message from Organising Chairperson, Adj. A/Prof. Teo Li-Tserng</h2>
+<h2>Welcome Message from Organising Chairperson</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg">
 </div>
+<p><em>Adj. A/Prof. Teo Li-Tserng</em>
+</p>
 <p></p>
 <p>Dear Colleagues and Friends,</p>
 <p>It is my honour to welcome you to the 15<sup>th </sup>of the Singapore
@@ -33,7 +35,19 @@ to push boundaries and forge new paths in trauma and acute care.</p>
 <p>On behalf of the organising committee, I look forward to welcoming you
 at STACC 2025.</p>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sincerely,</p>
 <p>Li-Tserng</p>
 <p>Organising Chairperson</p>
-<p>15<sup>th</sup> Singapore Trauma and Acute Care Conference</p>
+<p>15<sup>th </sup>Singapore Trauma and Acute Care Conference</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
