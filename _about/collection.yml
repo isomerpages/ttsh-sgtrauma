@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - About.md
+      - Singapore Trauma and Acute Care Conference.md
       - Chairperson's Welcome Message.md
       - Organising Committee.md
