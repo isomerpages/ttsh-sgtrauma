@@ -21,6 +21,10 @@ collaboration and thought leadership.</p>
 and forge connections that will shape the future of trauma and acute care.</p>
 <p></p>
 <p>(Insert quotes from track leads)</p>
+<p></p>
+<blockquote>
+<p>(Place holder)</p>
+</blockquote>
 <hr>
 <p></p>
 <h4>Option A: Accordian within Accordian</h4>
