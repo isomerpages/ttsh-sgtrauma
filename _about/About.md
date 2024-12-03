@@ -66,7 +66,8 @@ complexities of modern trauma care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/STACC_2023_Suntec.jpg">
 </div>
-<p>STACC 2023</p>
+<p><em>STACC 2023</em>
+</p>
 </td>
 </tr>
 </tbody>
