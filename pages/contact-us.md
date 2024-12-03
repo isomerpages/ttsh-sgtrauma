@@ -11,13 +11,6 @@ locations:
     operating_hours: []
     maps_link: ""
     title: Secretariat
-  - address:
-      - Suntec Singapore Convention & Exhibition Centre
-      - 1 Raffles Blvd
-      - Singapore 039593
-    operating_hours: []
-    maps_link: ""
-    title: Conference Venue
 contacts:
   - content:
       - phone: +65 6357 7589
