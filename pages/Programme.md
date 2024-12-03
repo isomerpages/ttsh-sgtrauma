@@ -19,12 +19,12 @@ a platform for emerging voices to share pioneering research, fostering
 collaboration and thought leadership.</p>
 <p>Join us to navigate evolving healthcare landscapes, gain actionable insights,
 and forge connections that will shape the future of trauma and acute care.</p>
-<p></p>
-<p>(Insert quotes from track leads)</p>
-<p></p>
-<blockquote>
-<p>(Place holder)</p>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Sunder_B_Testimonial.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Jerry_Goo_Testimonial.png">
+</div>
 <hr>
 <p></p>
 <h4>Option A: Accordian within Accordian</h4>
