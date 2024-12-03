@@ -12,8 +12,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STACC 2025 will be held at:
-<br>Suntec Singapore Convention &amp; Exhibition Centre
+<p>Suntec Singapore Convention &amp; Exhibition Centre
 <br>1 Raffles Boulevard Suntec City Singapore 039593</p>
 </td>
 </tr>
