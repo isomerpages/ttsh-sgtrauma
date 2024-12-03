@@ -9,9 +9,9 @@ description: ""
 </p>
 <p>STACC 2025 invites you to delve into a dynamic lineup of scientific tracks
 tailored to address the pressing challenges and innovations in modern healthcare.
-From <em>Critical Care and Anaesthesia</em> to <em>Emergency Medicine</em>, <em>Pre-Hospital Care</em>,
-and <em>Trauma</em>, our programme spans the breadth of acute care disciplines,
-ensuring something for every practitioner.</p>
+From <em>Critical Care and Anaesthesia</em> to <em>Emergency Medicine</em>, <em>Pre-Hospital Care</em>, <em>Acute Care </em>and <em>Trauma</em>,
+our programme spans the breadth of multiple disciplines, ensuring something
+for every practitioner.</p>
 <p>Dive deeper into specialized fields such as <em>Orthopaedics</em> and <em>Neurosurgery/Spine</em>,
 and discover cutting-edge strategies to enhance outcomes in complex cases.
 Complementing these focused tracks, the <em>Free Paper</em> segment provides
