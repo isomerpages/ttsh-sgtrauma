@@ -9,7 +9,18 @@ description: ""
 <p>(Insert photo and message from Dr Teo Ying Xin)</p>
 <h2>Meet our Scientific Committee</h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Lee Yue Yen" src="/images/Faculty/Dr_Lee_YY_Square.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Lee Yue Yen</div><div class="isomer-card-description">Pre-hospital Track Lead</div><div class="isomer-card-link">Tan Tock Seng Hospital</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Lee Yue Yen" src="/images/Faculty/Dr_Lee_YY_Square.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Lee Yue Yen</div>
+<div class="isomer-card-description">Pre-hospital Track Lead</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -143,4 +154,51 @@ description: ""
 </div>
 </div>
 </div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/Dr_Lee_YY_Square.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/Dr_Sunder_Square.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/Dr_Junaidah_Square.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Lee Yue Yen</strong>
+<br>Pre-hospital Track Lead
+<br>Tan Tock Seng Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Sunder Balasubramaniam</strong>
+<br>Trauma Track Lead
+<br>Tan Tock Seng Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Junaidah Binte Badron</strong>
+<br>Paediatric Track Lead
+<br>KK Women's and Children's Hospital</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
