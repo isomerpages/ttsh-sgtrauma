@@ -5,12 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2>Welcome Message from Organising Chairperson</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg">
-</div>
-<p><em>Adj. A/Prof. Teo Li-Tserng, Chief of Trauma and Acute Care Surgery at Tan Tock Seng Hospital</em>
-</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -21,8 +15,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg">
 </div>
-<p>Adj. A/Prof. Teo Li-Tserng, Chief of Trauma and Acute Care Surgery at
-Tan Tock Seng Hospital</p>
+<p><em>Adj. A/Prof. Teo Li-Tserng, Chief of Trauma and Acute Care Surgery at Tan Tock Seng Hospital</em>
+</p>
 </td>
 </tr>
 </tbody>
