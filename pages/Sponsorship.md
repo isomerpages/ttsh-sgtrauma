@@ -4,9 +4,7 @@ permalink: /sponsorship/
 variant: tiptap
 description: ""
 ---
-<p>? KIV Prospectus / space to put up vendors' ads ?</p>
 <h2>Partner Us!</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vendors/MG_7722_inPixio.jpg">
 </div>
@@ -45,14 +43,7 @@ to tailor a package that best suits your needs and interests.</p>
 <p>Please contact us at <a href="mailto:trauma@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">trauma@ttsh.com.sg</a> if you wish to partner
 us.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sponsorship Prospectus</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">STACC 2025</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sponsorship Prospectus</div><div class="isomer-card-description">(To create for.sg short link for sponsorship prospectus pdf once approved)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <hr>
 <table style="minWidth: 75px">
