@@ -4,7 +4,7 @@ title: Singapore Trauma and Acute Care Conference
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Sign up now to enjoy Flash Deal rates!
+notification: Register now to enjoy Flash Deal rates!
 sections:
   - hero:
       title: Singapore Trauma and Acute Care Conference
