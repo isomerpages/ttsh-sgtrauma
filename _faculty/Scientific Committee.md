@@ -9,18 +9,7 @@ description: ""
 <p>(Insert photo and message from Dr Teo Ying Xin)</p>
 <h2>Meet our Scientific Committee</h2>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Lee Yue Yen" src="/images/Faculty/Dr_Lee_YY_Square.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Lee Yue Yen</div>
-<div class="isomer-card-description">Pre-hospital Track Lead</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Lee Yue Yen" src="/images/Faculty/Dr_Lee_YY_Square.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Lee Yue Yen</div><div class="isomer-card-description">Pre-hospital Track Lead</div><div class="isomer-card-link">Tan Tock Seng Hospital</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
