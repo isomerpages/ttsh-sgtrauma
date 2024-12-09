@@ -13,7 +13,7 @@ sections:
       button: Register Now
       url: https://form.gov.sg/671f0a292cc50a6ea71cce55
       variant: side
-      backgroundColor: black
+      backgroundColor: gray
       alignment: right
       size: md
   - infopic:
