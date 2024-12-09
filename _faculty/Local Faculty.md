@@ -6,7 +6,7 @@ description: ""
 ---
 <p>List of local faculty is to be confirmed, but stay tuned!</p>
 <p></p>
-<p>In the meantime, take a look at our international faculty from STACC 2023:</p>
+<p>In the meantime, check out our local faculty from STACC 2023:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/Local Faculty/3.png">
 </div>
