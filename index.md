@@ -36,7 +36,7 @@ sections:
   - infopic:
       title: STACC 2023
       id: infopic
-      description: The first in-person post-COVID-19, united 500+ experts to share
+      description: Emerging from COVID-19, STACC 2023 united 500+ experts to share
         advances in pre-hospital care, resource optimization, and technology in
         trauma management.
       button: View highlights
