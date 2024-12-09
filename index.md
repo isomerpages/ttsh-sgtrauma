@@ -9,10 +9,10 @@ sections:
   - hero:
       title: Singapore Trauma and Acute Care Conference 2025
       subtitle: 17 & 18 July 2025 @ Suntec Singapore Convention & Exhibition Centre
-      background: /images/Homepage/STACC_2025_Homepage_Banner.jpg
+      background: /images/Homepage/STACC_2025_Homepage_Banner__Alt_.png
       button: Register Now
       url: https://form.gov.sg/671f0a292cc50a6ea71cce55
-      variant: side
+      variant: center
       backgroundColor: gray
       alignment: right
       size: md
