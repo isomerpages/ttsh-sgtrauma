@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: Discover Our Theme
       id: infopic
-      description: "Discover the inspiration behind our theme for STACC 2025:
+      description: "Learn about the inspiration behind our theme for STACC 2025:
         Navigating Uncertainties, Inspiring Solutions & Building Resilience"
       button: View more
       alt: Image alt text
