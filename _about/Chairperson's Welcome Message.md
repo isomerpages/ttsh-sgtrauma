@@ -5,23 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h2>Welcome Message from Organising Chairperson</h2>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg">
-</div>
-<p><em>Adj. A/Prof. Teo Li-Tserng, Chief of Trauma and Acute Care Surgery at Tan Tock Seng Hospital</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/TLT_Welcome_Message_Image.png">
+</div>
 <p>Dear Colleagues and Friends,</p>
 <p>It is my honour to welcome you to the 15<sup>th </sup>of the Singapore
 Trauma and Acute Care Conference (STACC). This year, we gather under the
