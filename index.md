@@ -46,7 +46,6 @@ sections:
   - infopic:
       title: Partnering Institutions
       id: infopic
-      description: STACC is proudly supported by institutions across Singapore.
       alt: Image alt text
       image: /images/Homepage/Partnering_Institutions.png
 ---
