@@ -4,9 +4,6 @@ permalink: /scientific-committee/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<h2>Message from our Scientific Chairperson</h2>
-<p>(Insert photo and message from Dr Teo Ying Xin)</p>
 <h2>Meet our Scientific Committee</h2>
 <p></p>
 <div class="isomer-image-wrapper">
