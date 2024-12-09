@@ -43,7 +43,13 @@ to tailor a package that best suits your needs and interests.</p>
 <p>Please contact us at <a href="mailto:trauma@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">trauma@ttsh.com.sg</a> if you wish to partner
 us.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sponsorship Prospectus</div><div class="isomer-card-description">(To create for.sg short link for sponsorship prospectus pdf once approved)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sponsorship Prospectus</div>
+<div class="isomer-card-description">(To create for.sg short link for sponsorship prospectus pdf once approved)</div>
+</div>
+</div>
 </div>
 <hr>
 <table style="minWidth: 75px">
