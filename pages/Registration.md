@@ -7,9 +7,6 @@ description: ""
 <h1>Fees</h1>
 <p>Registration is now open! Click <strong><a href="https://form.gov.sg/671f0a292cc50a6ea71cce55" rel="noopener nofollow" target="_blank">here</a></strong> to
 register.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Registration_Fees__Website__02122024.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -19,13 +16,16 @@ register.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/STACC_2025_Registration_Fee_9_Dec_2024.png">
+</div>
 <p>Notes:
-<br>1) Above amounts are in Singapore Dollars and <strong>exclude</strong> 9%
+<br>1) The stated conference fees are in Singapore Dollars and <strong>exclude</strong> 9%
 Goods &amp; Services Tax (GST).
 <br>2) ASEAN countries include: Brunei Darussalam, Cambodia, Indonesia, Lao
-PDR, Malaysia, Myanmar, Phillippines, Singapore, Thailand &amp; Viet Nam.
-<br>3) LMIC: Lower-Middle Income Country. For list of LMIC, please visit
-<a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener nofollow" target="_blank">here</a>for the country classification.</p>
+PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand &amp; Vietnam.
+<br>3) View the list of LMIC <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
