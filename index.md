@@ -36,7 +36,9 @@ sections:
   - infopic:
       title: STACC 2023
       id: infopic
-      description: Diverse Challenges, Sharing Solutions
+      description: The first in-person post-COVID-19, united 500+ experts to share
+        advances in pre-hospital care, resource optimization, and technology in
+        trauma management.
       button: View highlights
       url: /stacc-2023/
       alt: Image alt text
