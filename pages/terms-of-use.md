@@ -13,7 +13,7 @@ The terms "Singapore Trauma and Acute Care Conference,", "STACC", "us," or "we" 
 
 ### Privacy
 
-Your use of the site is also governed by our [Privacy Policy](#), which outlines how we collect, use, and protect your information.
+Your use of the site is also governed by our [Privacy Policy](https://singaporetrauma.com/privacy/), which outlines how we collect, use, and protect your information.
 
 * * *
 
