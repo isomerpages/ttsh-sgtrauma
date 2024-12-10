@@ -56,7 +56,7 @@ This website is provided "as is" without warranties of any kind. Singapore Traum
 
 ### Data Collection Acknowledgment
 
-By using our services or agreeing to terms during registration, you consent to our collection and use of personal data in line with the **Personal Data Protection Act 2012**. For details, visit our [Privacy Policy](#).
+By using our services or agreeing to terms during registration, you consent to our collection and use of personal data in line with the **Personal Data Protection Act (PDPA)**. For details, visit our Privacy Policy.
 
 * * *
 
