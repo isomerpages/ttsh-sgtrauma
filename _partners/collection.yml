@@ -1,0 +1,6 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Sponsorship.md
+      - Supporting Institutions.md

@@ -4,9 +4,8 @@ permalink: /programme/
 variant: tiptap
 description: ""
 ---
-<h3>STACC 2025 Scientific Programme</h3>
-<p><strong>Explore the Frontiers of Trauma and Acute Care</strong>
-</p>
+<h2>STACC 2025 Scientific Programme</h2>
+<h4><strong>Explore the Frontiers of Trauma and Acute Care</strong></h4>
 <p>STACC 2025 invites you to delve into a dynamic lineup of scientific tracks
 tailored to address the pressing challenges and innovations in modern healthcare.
 From <em>Critical Care and Anaesthesia</em> to <em>Emergency Medicine</em>, <em>Pre-Hospital Care</em>, <em>Acute Care </em>and <em>Trauma</em>,

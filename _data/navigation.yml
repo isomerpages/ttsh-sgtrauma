@@ -10,8 +10,8 @@ links:
     collection: faculty
   - title: Abstracts
     collection: abstracts
-  - title: Sponsors
-    url: /sponsorship
+  - title: Partners
+    collection: partners
   - title: Venue
     url: /venue
   - title: Contact Us

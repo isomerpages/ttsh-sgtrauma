@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Singapore Trauma and Acute Care Conference</h2>
-<p>Singapore Trauma (ST) has come a long way since its beginnings in 2005
+<p>Singapore Trauma (ST) has come a long way since its beginning in 2005
 as a humble half-day update session, initially conceived as an extension
 of the inaugural Definitive Surgical Trauma Care (DSTC) course. By 2007,
 the event had evolved into a full-day conference dedicated exclusively
@@ -27,12 +27,13 @@ of knowledge-sharing and collaboration.</p>
 </tr>
 </tbody>
 </table>
-<p>Recognizing the need to address trauma's multidisciplinary nature, ST
+<p>Recognising the need to address trauma's multidisciplinary nature, ST
 embraced further growth, transforming into a two-day conference and rebranding
-as Singapore Trauma and Acute Care Conference (STACC) to reflect its broader
-scope. Now, STACC stands as a premier platform that integrates diverse
-disciplines—trauma, acute care, emergency medicine, orthopaedics, and more—united
-by a shared commitment to improving patient outcomes.</p>
+as <strong>Singapore Trauma and Acute Care Conference (STACC)</strong> to
+reflect its broader scope. Now, STACC stands as a premier platform that
+integrates diverse disciplines—trauma, acute care, emergency medicine,
+orthopaedics, and more—united by a shared commitment to improving patient
+outcomes.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>

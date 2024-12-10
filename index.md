@@ -11,7 +11,7 @@ sections:
       subtitle: 17 & 18 July 2025 @ Suntec Singapore Convention & Exhibition Centre
       background: /images/Homepage/STACC_2025_Hero_Page_1024_450.png
       button: Register Now
-      url: https://form.gov.sg/671f0a292cc50a6ea71cce55
+      url: /registration
       variant: center
       backgroundColor: gray
       alignment: right
@@ -20,10 +20,10 @@ sections:
       title: Discover Our Theme
       id: infopic
       description: "Learn about the inspiration behind our theme for STACC 2025:
-        Navigating Uncertainties, Inspiring Solutions & Building Resilience"
+        Navigating Uncertainties, Inspiring Solutions, Building Resilience"
       button: View more
       alt: Image alt text
-      image: /images/STACC_2025_Theme.png
+      image: /images/Theme_Banner.png
       url: /theme
   - infopic:
       title: Hear From Our Chairperson
@@ -34,7 +34,16 @@ sections:
       image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
       alt: Image alt text
   - infopic:
-      title: STACC 2023
+      title: Be Our Partner
+      id: infopic
+      alt: Image alt text
+      image: /images/Homepage/MG_8163_inPixio__2_.jpg
+      url: /sponsorship/
+      button: View opportunities
+      description: Create meaningful impact and showcase your commitment to advancing
+        trauma care.
+  - infopic:
+      title: Recap Our Previous Conference
       id: infopic
       description: Emerging from COVID-19, STACC 2023 united 500+ experts to share
         advances in pre-hospital care, resource optimization, and technology in
@@ -43,9 +52,4 @@ sections:
       url: /stacc-2023/
       alt: Image alt text
       image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
-  - infopic:
-      title: Partnering Institutions
-      id: infopic
-      alt: Image alt text
-      image: /images/Homepage/Partnering_Institutions.png
 ---

@@ -4,9 +4,11 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h1>Fees</h1>
-<p>Registration is now open! Click <strong><a href="https://form.gov.sg/671f0a292cc50a6ea71cce55" rel="noopener nofollow" target="_blank">here</a></strong> to
-register.</p>
+<h2>Fees</h2>
+<h4>Registration is now open! Click <strong><a href="https://form.gov.sg/671f0a292cc50a6ea71cce55" rel="noopener nofollow" target="_blank">here</a></strong> to register.</h4>
+<p><strong>Singapore Trauma &amp; Acute Care Conference 2025</strong>
+<br>🗓️ 17 &amp; 18 July 2025
+<br>📍 Suntec Singapore Convention &amp; Exhibition Centre</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/STACC_2025_Registration_Fee_9_Dec_2024.png">
 </div>
