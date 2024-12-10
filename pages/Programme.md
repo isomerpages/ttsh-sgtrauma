@@ -33,5 +33,5 @@ and forge connections that will shape the future of trauma and acute care.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/SGT3_Elise_Leo_Testimonial.png">
 </div>
 <hr>
-<h4>Stay tuned for the detailed programme! </h4>
+<h4>Stay tuned for the detailed programme!</h4>
 <p></p>
