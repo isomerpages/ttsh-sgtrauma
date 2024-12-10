@@ -4,8 +4,6 @@ permalink: /privacy/
 variant: markdown
 description: ""
 ---
-### Privacy Policy
-
 **Effective Date:** 10 December 2024
 
 The **Singapore Trauma and Acute Care Conference (STACC)** is dedicated to safeguarding your privacy. Any information you provide will be used solely in accordance with this policy. Updates to this policy will be reflected on this page, so please review it periodically to stay informed.
