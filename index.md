@@ -23,7 +23,7 @@ sections:
         Navigating Uncertainties, Inspiring Solutions & Building Resilience"
       button: View more
       alt: Image alt text
-      image: /images/STACC_2025_Theme.png
+      image: /images/Theme_Banner.png
       url: /theme
   - infopic:
       title: Hear From Our Chairperson
