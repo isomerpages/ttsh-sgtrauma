@@ -4,7 +4,7 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h1>Fees</h1>
+<h2>Fees</h2>
 <h4>Registration is now open! Click <strong><a href="https://form.gov.sg/671f0a292cc50a6ea71cce55" rel="noopener nofollow" target="_blank">here</a></strong> to register.</h4>
 <p><strong>Singapore Trauma &amp; Acute Care Conference 2025</strong>
 <br>🗓️ 17 &amp; 18 July 2025
