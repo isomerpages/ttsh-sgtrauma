@@ -8,6 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Theme_Banner.png">
 </div>
+<p></p>
 <p>In today's ever-evolving healthcare landscape, trauma and acute care providers
 face unprecedented challenges that demand adaptability and innovation.</p>
 <p>This theme underscores the need to confront uncertainties head-on, whether
