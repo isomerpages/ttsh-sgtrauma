@@ -34,7 +34,16 @@ sections:
       image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
       alt: Image alt text
   - infopic:
-      title: STACC 2023
+      title: Be Our Partner
+      id: infopic
+      alt: Image alt text
+      image: /images/Homepage/MG_8163_inPixio__2_.jpg
+      url: /sponsors
+      button: View opportunities
+      description: Create meaningful impact and showcase your commitment to advancing
+        trauma care.
+  - infopic:
+      title: Recap Our Previous Conference
       id: infopic
       description: Emerging from COVID-19, STACC 2023 united 500+ experts to share
         advances in pre-hospital care, resource optimization, and technology in
@@ -43,9 +52,4 @@ sections:
       url: /stacc-2023/
       alt: Image alt text
       image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
-  - infopic:
-      title: Partnering Institutions
-      id: infopic
-      alt: Image alt text
-      image: /images/Homepage/Partnering_Institutions.png
 ---
