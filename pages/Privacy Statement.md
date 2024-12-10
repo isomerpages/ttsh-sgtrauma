@@ -43,4 +43,4 @@ By interacting with us, you agree to our **Privacy Policy** and may receive mark
 *   SMS
 *   Phone
 
-For detailed policies or to update your preferences, visit our [Terms of Use][Terms of Use](/terms-of-use/).
+For detailed policies or to update your preferences, visit our [Terms of Use](/terms-of-use/).
