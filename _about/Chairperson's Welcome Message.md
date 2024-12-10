@@ -23,9 +23,9 @@ and advance trauma and acute care management. What began as a modest platform
 has grown into a vibrant community, elevating collaboration across disciplines.</p>
 <p></p>
 <p>This year's programme will reflect our commitment to address emerging
-challenges and equippin practitioners with the tools and knowledge to thrive
-in an unpredictable landscape. Through thought-provoking discussions and
-shared experiences, we aim to inspire solutions that not only overcome
+challenges and equipping practitioners with the tools and knowledge to
+thrive in an unpredictable landscape. Through thought-provoking discussions
+and shared experiences, we aim to inspire solutions that not only overcome
 today's uncertainties but also shape a more resilient future.</p>
 <p></p>
 <p>Thank you for joining us in this milestone year. Together, let us continue
@@ -41,10 +41,10 @@ at STACC 2025.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sincerely,</p>
-<p>Li-Tserng</p>
-<p>Organising Chairperson</p>
-<p>15<sup>th </sup>Singapore Trauma and Acute Care Conference</p>
+<p>Sincerely,
+<br>Li-Tserng
+<br>Organising Chairperson
+<br>15<sup>th </sup>Singapore Trauma and Acute Care Conference</p>
 </td>
 </tr>
 </tbody>
