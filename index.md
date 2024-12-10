@@ -38,7 +38,7 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Homepage/MG_8163_inPixio__2_.jpg
-      url: /partners/
+      url: /sponsorship/
       button: View opportunities
       description: Create meaningful impact and showcase your commitment to advancing
         trauma care.
