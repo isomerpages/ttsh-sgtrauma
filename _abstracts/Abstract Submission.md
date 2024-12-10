@@ -4,8 +4,7 @@ permalink: /abstract-submission/
 variant: tiptap
 description: ""
 ---
-<h3>Submit your abstract <a href="https://form.gov.sg/5f59061be2745e0011c18355" rel="noopener nofollow" target="_blank">here</a>.</h3>
-<p></p>
+<h2>Submit your abstract <a href="https://form.gov.sg/5f59061be2745e0011c18355" rel="noopener nofollow" target="_blank">here</a>.</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abstracts/MG_7865_inPixio.jpg">
 </div>
