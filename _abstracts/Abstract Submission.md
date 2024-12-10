@@ -15,7 +15,7 @@ before 17 July 2025.</p>
 <p>A committee will review the abstracts and decide if they are to be Oral
 or Poster Presentations.</p>
 <p>Prizes shall be awarded (categories to be advised).</p>
-<h4><em>Closing date for submission: 31 Mar 2025.</em></h4>
+<h4><em>Closing date for submission: 31 Mar 2025</em></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
