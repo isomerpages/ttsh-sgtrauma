@@ -11,7 +11,7 @@ links:
   - title: Abstracts
     collection: abstracts
   - title: Partners
-    url: /partners
+    collection: about
   - title: Venue
     url: /venue
   - title: Contact Us
