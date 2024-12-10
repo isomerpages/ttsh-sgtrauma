@@ -11,7 +11,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/TLT_Welcome_Message_Image.png">
 </div>
 <p>Dear Colleagues and Friends,</p>
-<p>It is my honour to welcome you to the 15<sup>th </sup>of the Singapore
+<p>It is my honour to welcome you to the 15<sup>th </sup>edition of the Singapore
 Trauma and Acute Care Conference (STACC). This year, we gather under the
 theme: <em>Navigating Uncertainties, Inspiring Solutions, Building Resilience</em> -
 a testament to the adaptability and innovation that have defined our journey
