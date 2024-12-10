@@ -37,10 +37,10 @@ Cookies help improve your website experience. You can manage them via your brows
 
 #### Consent
 
-By interacting with us, you agree to our **Data Protection Policy**, available at [www.singaporetrauma.com](http://www.singaporetrauma.com). You may receive marketing communications via:
+By interacting with us, you agree to our **Privacy Policy** and may receive marketing communications via:
 
 *   Email
 *   SMS
 *   Phone
 
-For detailed policies or to update your preferences, visit our [Terms of Use](https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/Trauma-Training-Centre/Singapore-Trauma-and-Acute-Care-Conference/Pages/Terms-of-Use.aspx).
+For detailed policies or to update your preferences, visit our [Terms of Use][Terms of Use](/terms-of-use/).
