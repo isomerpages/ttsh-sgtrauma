@@ -1,32 +1,51 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Singapore Trauma and Acute Care Conference
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Register now to enjoy Flash Deal rates!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Singapore Trauma and Acute Care Conference 2025
+      subtitle: 17 & 18 July 2025 @ Suntec Singapore Convention & Exhibition Centre
+      background: /images/Homepage/STACC_2025_Hero_Page_1024_450.png
+      button: Register Now
+      url: https://form.gov.sg/671f0a292cc50a6ea71cce55
+      variant: center
+      backgroundColor: gray
+      alignment: right
+      size: md
+  - infopic:
+      title: Discover Our Theme
+      id: infopic
+      description: "Learn about the inspiration behind our theme for STACC 2025:
+        Navigating Uncertainties, Inspiring Solutions & Building Resilience"
+      button: View more
+      alt: Image alt text
+      image: /images/STACC_2025_Theme.png
+      url: /theme
+  - infopic:
+      title: Hear From Our Chairperson
+      id: infopic
+      description: Adj. A/Prof. Teo Li-Tserng welcomes you to STACC and Singapore!
+      button: View message
+      url: /chairperson-s-welcome-message/
+      image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
+      alt: Image alt text
+  - infopic:
+      title: STACC 2023
+      id: infopic
+      description: Emerging from COVID-19, STACC 2023 united 500+ experts to share
+        advances in pre-hospital care, resource optimization, and technology in
+        trauma management.
+      button: View highlights
+      url: /stacc-2023/
+      alt: Image alt text
+      image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
+  - infopic:
+      title: Partnering Institutions
+      id: infopic
+      alt: Image alt text
+      image: /images/Homepage/Partnering_Institutions.png
 ---
-

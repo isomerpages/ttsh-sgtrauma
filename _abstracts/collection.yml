@@ -1,0 +1,6 @@
+collections:
+  abstracts:
+    output: true
+    order:
+      - Abstract Submission.md
+      - Submission Guidelines.md
