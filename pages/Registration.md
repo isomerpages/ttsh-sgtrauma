@@ -7,6 +7,9 @@ description: ""
 <h1>Fees</h1>
 <p>Registration is now open! Click <strong><a href="https://form.gov.sg/671f0a292cc50a6ea71cce55" rel="noopener nofollow" target="_blank">here</a></strong> to
 register.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/STACC_2025_Registration_Fee_9_Dec_2024.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -16,10 +19,6 @@ register.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/STACC_2025_Registration_Fee_9_Dec_2024.png">
-</div>
 <p>Notes:
 <br>1) The stated conference fees are in Singapore Dollars and <strong>exclude</strong> 9%
 Goods &amp; Services Tax (GST).
