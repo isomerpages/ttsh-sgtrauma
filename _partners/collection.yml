@@ -2,5 +2,5 @@ collections:
   partners:
     output: true
     order:
-      - Partnering Institutions.md
       - Sponsorship.md
+      - Partnering Institutions.md
