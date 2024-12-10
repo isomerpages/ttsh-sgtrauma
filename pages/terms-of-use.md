@@ -25,7 +25,7 @@ All content on this website, including text, graphics, and software, is owned by
 
 ### Trademarks
 
-Singapore Trauma's trademarks and trade dress must not be used in a way that could mislead users or harm our reputation. Other trademarks on this site are the property of their respective owners.
+STACC's trademarks and trade dress must not be used in a way that could mislead users or harm our reputation. Other trademarks on this site are the property of their respective owners.
 
 * * *
 
@@ -50,7 +50,7 @@ This website may contain third-party links. While we strive to provide useful re
 
 ### Disclaimer
 
-This website is provided "as is" without warranties of any kind. Singapore Trauma disclaims all liability for any damages arising from the use of the site or its services.
+This website is provided "as is" without warranties of any kind. STACC disclaims all liability for any damages arising from the use of the site or its services.
 
 * * *
 
