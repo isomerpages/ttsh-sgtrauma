@@ -55,6 +55,7 @@ and must be of an original scientific research.</p>
 at least 97-2003 version and above).</p>
 </li>
 </ul>
-<p>Please send your abstract to <a href="mailto:trauma@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">trauma@ttsh.com.sg</a>.</p>
+<p>Please submit your abstract <a href="https://form.gov.sg/5f59061be2745e0011c18355" rel="noopener nofollow" target="_blank">here</a> or reach out
+to the secretariat, should you have any queries, via <a href="mailto:trauma@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">trauma@ttsh.com.sg</a>.</p>
 <p></p>
 <p></p>

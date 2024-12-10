@@ -10,7 +10,7 @@ description: ""
 <br>🗓️ 17 &amp; 18 July 2025
 <br>📍 Suntec Singapore Convention &amp; Exhibition Centre</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/STACC_2025_Registration_Fee_9_Dec_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/4.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
