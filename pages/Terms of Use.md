@@ -8,7 +8,7 @@ description: ""
 
 Please read these terms carefully before using this website. By continuing to browse or use the site, you agree to these terms. We may revise this policy periodically, so check back for updates.
 
-The terms "Singapore Trauma and Acute Care Conference,", "STACC", "us," or "we" refer to the website owner, while "you" refers to the website user or viewer.
+The terms "Singapore Trauma and Acute Care Conference", "STACC", "us," or "we" refer to the website owner, while "you" refers to the website user or viewer.
 
 * * *
 
