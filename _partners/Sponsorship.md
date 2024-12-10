@@ -4,7 +4,7 @@ permalink: /sponsorship/
 variant: tiptap
 description: ""
 ---
-<h2>Partner Us!</h2>
+<h2>Partner us !</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vendors/MG_7722_inPixio.jpg">
 </div>
