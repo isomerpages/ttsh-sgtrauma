@@ -10,6 +10,8 @@ links:
     collection: faculty
   - title: Abstracts
     collection: abstracts
+  - title: Volunteer
+    url: /Volunteer
   - title: Partners
     collection: partners
   - title: Venue
