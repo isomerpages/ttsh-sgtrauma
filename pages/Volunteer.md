@@ -6,7 +6,7 @@ description: ""
 image: /images/Call_for_volunteers__STACC_2025_.png
 ---
 <p>Join us as a student volunteer at STACC 2025!</p>
-<p>Fill in your details in th e <a href="https://for.sg/staccvolunteer" rel="noopener nofollow" target="_blank">STACC volunteer application formm</a>
+<p>Fill in your details in the <a href="https://for.sg/staccvolunteer" rel="noopener nofollow" target="_blank">STACC volunteer application form.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
