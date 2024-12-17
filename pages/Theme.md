@@ -27,6 +27,12 @@ more adaptive system of care.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Dr_Teo_Ying_Xin_Headshot__2_.jpg">
+</div>
+<p>Dr Teo Ying Xin
+<br>Scientific Committee Chairperson
+<br>Singapore Trauma &amp; Acute Care Conference 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"In this current era of unprecedented volatility globally, navigating
