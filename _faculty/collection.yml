@@ -2,6 +2,7 @@ collections:
   faculty:
     output: true
     order:
+      - Scientific Chairperson's Welcome Message.md
       - Scientific Committee.md
       - International Faculty.md
       - Local Faculty.md
