@@ -10,10 +10,10 @@ links:
     collection: faculty
   - title: Abstracts
     collection: abstracts
-  - title: Volunteer
-    url: /volunteer
   - title: Partners
     collection: partners
+  - title: Volunteer
+    url: /volunteer
   - title: Venue
     url: /venue
   - title: Contact Us
