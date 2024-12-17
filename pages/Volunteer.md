@@ -31,8 +31,5 @@ event.</p>
 </ul>
 <p>Fill in your details in the <a href="https://for.sg/staccvolunteer" rel="noopener nofollow" target="_blank">STACC volunteer application form.</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_for__volunteers__STACC_2025_theme___2_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.sg/staccvolunteer"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_for__volunteers__STACC_2025_theme___2_.png"></a>
 <p></p>
