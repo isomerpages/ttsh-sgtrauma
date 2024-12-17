@@ -49,10 +49,7 @@ must be given.</p>
 <li>
 <p>The content of the abstract is solely the responsibility of the author(s),
 and must be of an original scientific research.</p>
-</li>
-<li>
-<p>Emailed files must be in Word format (i.e. a <strong>.doc</strong> extension;
-at least 97-2003 version and above).</p>
+<p></p>
 </li>
 </ul>
 <p>Please submit your abstract <a href="https://form.gov.sg/5f59061be2745e0011c18355" rel="noopener nofollow" target="_blank">here</a> or reach out
