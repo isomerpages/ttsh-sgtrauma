@@ -11,7 +11,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Suntec Singapore Convention &amp; Exhibition Centre</strong><br>1 Raffles Boulevard Suntec City Singapore 039593</h4>
+<h4><strong>Suntec Singapore Convention &amp; Exhibition Centre, Level 3</strong><br>1 Raffles Boulevard Suntec City Singapore 039593</h4>
 </td>
 </tr>
 </tbody>
