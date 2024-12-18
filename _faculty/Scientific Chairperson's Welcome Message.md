@@ -8,6 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/Dr_Teo_Ying_Xin_Sci_Comm_Chair_Welcome_Message.png">
 </div>
+<p>Dear Colleagues and Friends,</p>
 <p>It is my honor to welcome you to STACC 2025, where we gather to advance
 the field of trauma and acute care surgery. This year's theme, <strong><em>"Navigating Uncertainties, Inspiring Solutions, Building Resilience"</em></strong>,
 reflects the pressing challenges of our time - spanning healthcare, environment
