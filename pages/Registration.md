@@ -8,9 +8,10 @@ description: ""
 <h4>Registration is now open! Click <strong><a href="https://form.gov.sg/671f0a292cc50a6ea71cce55" rel="noopener nofollow" target="_blank">here</a></strong> to register.</h4>
 <p><strong>Singapore Trauma &amp; Acute Care Conference 2025</strong>
 <br>🗓️ 17 &amp; 18 July 2025
-<br>📍 Suntec Singapore Convention &amp; Exhibition Centre</p>
+<br>📍 Suntec Singapore Convention &amp; Exhibition Centre, Level 3</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Registration_Fee.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -22,8 +23,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="3">
 <p>Notes:
-<br>1) The stated conference fees are in Singapore Dollars and <strong>exclude</strong> 9%
-Goods &amp; Services Tax (GST).
+<br>1) The stated conference fees are in Singapore Dollars and inclusive of
+9% Goods &amp; Services Tax (GST).
 <br>2) ASEAN countries include: Brunei Darussalam, Cambodia, Indonesia, Lao
 PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand &amp; Vietnam.
 <br>3) View the list of LMIC <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -43,4 +44,3 @@ is received.</p>
 prior to the conference by sending an email to <a href="mailto:trauma@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">trauma@ttsh.com.sg</a>.</p>
 <p><em>The organiser reserves the right to cancel the conference should unforeseen circumstances necessitate it.</em>
 </p>
-<p></p>
