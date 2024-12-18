@@ -13,6 +13,24 @@ in the conference proceedings. Submitted abstracts must not have been published
 before 17 July 2025.</p>
 <p>A committee will review the abstracts and decide if they are to be Oral
 or Poster Presentations.</p>
+<p>Papers on the following topics are also welcomed:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basic Sciences &amp; Research</p>
+</li>
+<li>
+<p>Innovation &amp; Technology</p>
+</li>
+<li>
+<p>Trauma Rehabilitation</p>
+</li>
+<li>
+<p>Psycho-social Aspects of Care &amp; Long-term Outomes</p>
+</li>
+<li>
+<p>Trauma Training &amp; Education</p>
+</li>
+</ul>
 <p>Prizes shall be awarded (categories to be advised).</p>
 <h4><em>Closing date for submission: 31 Mar 2025</em></h4>
 <table style="minWidth: 75px">
