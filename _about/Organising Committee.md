@@ -4,6 +4,10 @@ permalink: /organising-committee/
 variant: tiptap
 description: ""
 ---
+<h4>Singapore Trauma and Acute Care Conference is organised by:</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Organising Committee/TTSH_Trauma_Centre_Logo_Sept2023.png">
+</div>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -68,7 +72,7 @@ description: ""
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms Lecia Chen Rouwen</div>
+<div class="isomer-card-title">Ms Lecia Chen</div>
 </div>
 </div>
 <div class="isomer-card">
