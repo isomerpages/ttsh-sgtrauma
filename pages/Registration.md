@@ -9,9 +9,14 @@ description: ""
 <p><strong>Singapore Trauma &amp; Acute Care Conference 2025</strong>
 <br>🗓️ 17 &amp; 18 July 2025
 <br>📍 Suntec Singapore Convention &amp; Exhibition Centre, Level 3</p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Registration_Fee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Website_Fees.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
