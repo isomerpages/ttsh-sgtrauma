@@ -9,7 +9,6 @@ description: ""
 <p><strong>Singapore Trauma &amp; Acute Care Conference 2025</strong>
 <br>🗓️ 17 &amp; 18 July 2025
 <br>📍 Suntec Singapore Convention &amp; Exhibition Centre, Level 3</p>
-<p></p>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
