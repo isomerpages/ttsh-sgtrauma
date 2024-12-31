@@ -4,7 +4,6 @@ permalink: /archives/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h2>STACC 2023 Programme</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Highlights/STACC_Programme_Full_05Oct23_Page_2.png">
