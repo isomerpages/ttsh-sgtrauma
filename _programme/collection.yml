@@ -2,5 +2,5 @@ collections:
   programme:
     output: true
     order:
-      - Archives.md
       - Programme.md
+      - Archives.md
