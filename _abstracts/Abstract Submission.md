@@ -13,6 +13,24 @@ in the conference proceedings. Submitted abstracts must not have been published
 before 17 July 2025.</p>
 <p>A committee will review the abstracts and decide if they are to be Oral
 or Poster Presentations.</p>
+<p>Categories:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Trauma and Acute Care Surgery</p>
+</li>
+<li>
+<p>Emergency Medicine</p>
+</li>
+<li>
+<p>Critical Care</p>
+</li>
+<li>
+<p>Orthopaedic Surgery</p>
+</li>
+<li>
+<p>Neurosurgery</p>
+</li>
+</ul>
 <p>Papers on the following topics are also welcomed:</p>
 <ul data-tight="true" class="tight">
 <li>
