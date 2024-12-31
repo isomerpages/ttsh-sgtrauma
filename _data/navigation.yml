@@ -5,7 +5,7 @@ links:
   - title: Registration
     url: /registration/
   - title: Programme
-    url: /programme/
+    collection: programme
   - title: Faculty
     collection: faculty
   - title: Abstracts

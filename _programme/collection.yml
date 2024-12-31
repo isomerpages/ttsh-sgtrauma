@@ -1,0 +1,6 @@
+collections:
+  programme:
+    output: true
+    order:
+      - Programme.md
+      - Archives.md
