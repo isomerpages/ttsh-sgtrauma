@@ -9,30 +9,25 @@ description: ""
 <p><strong>Singapore Trauma &amp; Acute Care Conference 2025</strong>
 <br>🗓️ 17 &amp; 18 July 2025
 <br>📍 Suntec Singapore Convention &amp; Exhibition Centre, Level 3</p>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Website_Fees.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Registration_Early_Bird.png">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>Notes:
 <br>1) The stated conference fees are in Singapore Dollars and inclusive of
 9% Goods &amp; Services Tax (GST).
-<br>2) ASEAN countries include: Brunei Darussalam, Cambodia, Indonesia, Lao
-PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand &amp; Vietnam.
-<br>3) View the list of LMIC <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener nofollow" target="_blank">here</a>.</p>
+<br>2) ASEAN (Association of Southeast Asian Nations) countries include: Brunei
+Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines,
+Singapore, Thailand &amp; Vietnam.
+<br>3) View the list of LMIC <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener nofollow" target="_blank">here</a>.
+(LMIC=Lower-Middle Income Countries, interchangeably used with Lower-Middle
+Income Economies.)</p>
 </td>
 </tr>
 </tbody>
