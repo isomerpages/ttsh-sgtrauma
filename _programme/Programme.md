@@ -25,12 +25,15 @@ and forge connections that will shape the future of trauma and acute care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Dr_Sunder_B_Testimonial.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Dr_Jerry_Goo_Testimonial.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/SGT3_Elise_Leo_Testimonial.png">
 </div>
