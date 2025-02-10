@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4>Meet our international faculty!</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/International Faculty/1.png">
 </div>
