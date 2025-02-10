@@ -4,5 +4,11 @@ permalink: /international-faculty/
 variant: tiptap
 description: ""
 ---
-<h4>List of STACC 2025 international faculty is to be confirmed, stay tuned!</h4>
+<h4>Meet our international faculty!</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/International Faculty/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faculty/International Faculty/2.png">
+</div>
 <p></p>
