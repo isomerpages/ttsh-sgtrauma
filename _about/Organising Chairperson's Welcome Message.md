@@ -8,6 +8,9 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/TLT_Org_Chairperson_Message.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/TLT_Welcome_Message_Image.png">
 </div>
 <p>Dear Colleagues and Friends,</p>

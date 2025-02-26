@@ -12,7 +12,7 @@ description: ""
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Adj. A/Prof. Teo Li-Tserng</div>
+<div class="isomer-card-title">Adj. Asst. Prof. Teo Li-Tserng</div>
 </div>
 </div>
 <div class="isomer-card">
