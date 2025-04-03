@@ -52,4 +52,9 @@ sections:
       url: /stacc-2023/
       alt: Image alt text
       image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
+  - infopic:
+      title: Our Sponsors
+      id: infopic
+      image: /images/Vendors/Sponsors' Logos/Sponsors__Logos__3_Apr_2025_.png
+      alt: Image alt text
 ---
