@@ -10,7 +10,7 @@ description: ""
 <br>🗓️ 17 &amp; 18 July 2025
 <br>📍 Suntec Singapore Convention &amp; Exhibition Centre, Level 3</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Discounted__up_to_13_Jun_2025_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Discounted_up_to_13_Jun_2025.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
