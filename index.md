@@ -4,7 +4,7 @@ title: Singapore Trauma and Acute Care Conference
 description: 17 - 18 July 2025 at Suntec Singapore Convention & Exhibition Centre
 image: /images/isomer-logo.svg
 permalink: /
-notification: Register now to enjoy Early Bird rates!
+notification: Register now to enjoy Discounted rates!
 sections:
   - hero:
       title: Singapore Trauma and Acute Care Conference 2025
@@ -52,4 +52,9 @@ sections:
       url: /stacc-2023/
       alt: Image alt text
       image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
+  - infopic:
+      title: Our Sponsors
+      id: infopic
+      image: /images/Vendors/Sponsors' Logos/Sponsors__Logos__3_Apr_2025_.png
+      alt: Image alt text
 ---
