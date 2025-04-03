@@ -22,7 +22,7 @@ sections:
       description: Leading trauma and acute care experts will be joining us at STACC 2025.
       button: view more
       url: /international-faculty/
-      image: /images/Faculty/International Faculty/International_faculty.png
+      image: /images/Faculty/International Faculty/International_Faculty.png
       alt: Image alt text
   - infopic:
       title: Be Our Partner
