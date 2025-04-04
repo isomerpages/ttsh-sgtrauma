@@ -17,6 +17,23 @@ sections:
       alignment: right
       size: md
   - infopic:
+      title: Meet Our International Faculty
+      id: infopic
+      description: Leading trauma and acute care experts will be joining us at STACC 2025.
+      button: view more
+      url: /international-faculty/
+      image: /images/Faculty/International Faculty/International_Faculty.png
+      alt: Image alt text
+  - infopic:
+      title: Be Our Partner
+      id: infopic
+      alt: Image alt text
+      image: /images/Homepage/MG_8163_inPixio__2_.jpg
+      url: /sponsorship/
+      button: View opportunities
+      description: Create meaningful impact and showcase your commitment to advancing
+        trauma care.
+  - infopic:
       title: Discover Our Theme
       id: infopic
       description: "Learn about the inspiration behind our theme for STACC 2025:
@@ -33,15 +50,6 @@ sections:
       url: /chairperson-s-welcome-message/
       image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
       alt: Image alt text
-  - infopic:
-      title: Be Our Partner
-      id: infopic
-      alt: Image alt text
-      image: /images/Homepage/MG_8163_inPixio__2_.jpg
-      url: /sponsorship/
-      button: View opportunities
-      description: Create meaningful impact and showcase your commitment to advancing
-        trauma care.
   - infopic:
       title: Recap Our Previous Conference
       id: infopic
