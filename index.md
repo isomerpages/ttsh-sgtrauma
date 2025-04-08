@@ -34,6 +34,19 @@ sections:
       description: Create meaningful impact and showcase your commitment to advancing
         trauma care.
   - infopic:
+      title: Hear From Our Organising Chairperson
+      id: infopic
+      description: Adj. A/Prof. Teo Li-Tserng welcomes you to STACC and Singapore!
+      button: View message
+      url: /chairperson-s-welcome-message/
+      image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
+      alt: Image alt text
+  - infopic:
+      title: Our Sponsors
+      id: infopic
+      image: /images/Vendors/Sponsors' Logos/Sponsors__Logos__3_Apr_2025_.png
+      alt: Image alt text
+  - infopic:
       title: Discover Our Theme
       id: infopic
       description: "Learn about the inspiration behind our theme for STACC 2025:
@@ -42,14 +55,6 @@ sections:
       alt: Image alt text
       image: /images/Theme_Banner.png
       url: /theme
-  - infopic:
-      title: Hear From Our Organising Chairperson
-      id: infopic
-      description: Adj. A/Prof. Teo Li-Tserng welcomes you to STACC and Singapore!
-      button: View message
-      url: /chairperson-s-welcome-message/
-      image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
-      alt: Image alt text
   - infopic:
       title: Recap Our Previous Conference
       id: infopic
@@ -60,9 +65,4 @@ sections:
       url: /stacc-2023/
       alt: Image alt text
       image: /images/Homepage/2023_Summit_Participants_Laugh.jpg
-  - infopic:
-      title: Our Sponsors
-      id: infopic
-      image: /images/Vendors/Sponsors' Logos/Sponsors__Logos__3_Apr_2025_.png
-      alt: Image alt text
 ---
