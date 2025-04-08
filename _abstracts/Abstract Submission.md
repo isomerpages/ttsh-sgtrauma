@@ -50,7 +50,7 @@ or Poster Presentations.</p>
 </li>
 </ul>
 <p>Prizes shall be awarded (categories to be advised).</p>
-<h4><em>Closing date for submission: 14 April 2025</em></h4>
+<h4><em>Extended deadline for submission: 14 April 2025</em></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
