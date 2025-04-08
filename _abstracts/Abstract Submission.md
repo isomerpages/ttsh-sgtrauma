@@ -43,14 +43,14 @@ or Poster Presentations.</p>
 <p>Trauma Rehabilitation</p>
 </li>
 <li>
-<p>Psycho-social Aspects of Care &amp; Long-term Outomes</p>
+<p>Psycho-social Aspects of Care &amp; Long-term Outcomes</p>
 </li>
 <li>
 <p>Trauma Training &amp; Education</p>
 </li>
 </ul>
 <p>Prizes shall be awarded (categories to be advised).</p>
-<h4><em>Closing date for submission: 31 Mar 2025</em></h4>
+<h4><em>Closing date for submission: 14 April 2025</em></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
