@@ -4,7 +4,7 @@ permalink: /abstract-submission/
 variant: tiptap
 description: ""
 ---
-<h2>Submit your abstract <a href="https://form.gov.sg/5f59061be2745e0011c18355" rel="noopener nofollow" target="_blank">here</a>.</h2>
+<h4>Abstract submission has closed.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abstracts/MG_7865_inPixio.jpg">
 </div>
@@ -50,7 +50,8 @@ or Poster Presentations.</p>
 </li>
 </ul>
 <p>Prizes shall be awarded (categories to be advised).</p>
-<h4><em>Extended deadline for submission: 14 April 2025</em></h4>
+<p><strong>Abstract submission deadline (extended): 14 April 2025.</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
