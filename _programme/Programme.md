@@ -47,6 +47,4 @@ and forge connections that will shape the future of trauma and acute care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Adj__Asst__Prof__Louis_Ng_Xiang_Long_Testimonial.png">
 </div>
-<hr>
-<h4>Stay tuned for the detailed programme!</h4>
 <p></p>
