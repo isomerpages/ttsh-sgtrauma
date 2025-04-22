@@ -18,15 +18,18 @@ a platform for emerging voices to share pioneering research, fostering
 collaboration and thought leadership.</p>
 <p>Join us to navigate evolving healthcare landscapes, gain actionable insights,
 and forge connections that will shape the future of trauma and acute care.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___2_.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___4_.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Dr_Sunder_B_Testimonial.png">
@@ -43,6 +46,4 @@ and forge connections that will shape the future of trauma and acute care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Adj__Asst__Prof__Louis_Ng_Xiang_Long_Testimonial.png">
 </div>
-<hr>
-<h4>Stay tuned for the detailed programme!</h4>
 <p></p>

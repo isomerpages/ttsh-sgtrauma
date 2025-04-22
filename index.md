@@ -36,7 +36,7 @@ sections:
   - infopic:
       title: Hear From Our Organising Chairperson
       id: infopic
-      description: Adj. A/Prof. Teo Li-Tserng welcomes you to STACC and Singapore!
+      description: Adj. Asst. Prof. Teo Li-Tserng welcomes you to STACC and Singapore!
       button: View message
       url: /chairperson-s-welcome-message/
       image: /images/Organising Committee/Teo_Li_Tserng_Scrub_Horizontal.jpg
@@ -44,7 +44,7 @@ sections:
   - infopic:
       title: Our Sponsors
       id: infopic
-      image: /images/Vendors/Sponsors' Logos/Sponsors__Logos__3_Apr_2025_.png
+      image: /images/Vendors/Sponsors' Logos/20.png
       alt: Image alt text
   - infopic:
       title: Discover Our Theme
