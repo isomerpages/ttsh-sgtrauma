@@ -18,7 +18,6 @@ a platform for emerging voices to share pioneering research, fostering
 collaboration and thought leadership.</p>
 <p>Join us to navigate evolving healthcare landscapes, gain actionable insights,
 and forge connections that will shape the future of trauma and acute care.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___1_.png">
 </div>
