@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h4>STACC is supported by:</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Supporting_Institution.png">
+</div>
+<h4>Other participating local institutions &amp; organisations:</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other participating local institutions &amp; organisations.png">
 </div>
 <p></p>
