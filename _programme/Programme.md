@@ -18,18 +18,22 @@ a platform for emerging voices to share pioneering research, fostering
 collaboration and thought leadership.</p>
 <p>Join us to navigate evolving healthcare landscapes, gain actionable insights,
 and forge connections that will shape the future of trauma and acute care.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_1_AM.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_1_PM.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2_AM.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Skeleton__Detailed___Vertical___4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2_PM.png">
 </div>
+<p></p>
+<p>Downloadable copy here: <a href="/files/STACC_2025_Scientific_Programme.pdf" rel="noopener nofollow" target="_blank">STACC 2025 Scientific Programme</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Dr_Sunder_B_Testimonial.png">
