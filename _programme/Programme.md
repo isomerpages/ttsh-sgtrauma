@@ -20,18 +20,20 @@ collaboration and thought leadership.</p>
 and forge connections that will shape the future of trauma and acute care.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_1_AM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_1__1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_1_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_1__2_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2_AM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2__1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2__2_.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2__3_.png">
+</div>
 <p>Downloadable copy here: <a href="/files/STACC_2025_Scientific_Programme.pdf" rel="noopener nofollow" target="_blank">STACC 2025 Scientific Programme</a>
 </p>
 <p></p>
