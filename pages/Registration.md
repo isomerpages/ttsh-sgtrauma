@@ -15,9 +15,6 @@ description: ""
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/Discount_Rate_Extended.png">
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -25,6 +22,10 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration/20_Jun_2025_Regular_Rates.png">
+</div>
+<p></p>
 <p>Notes:
 <br>1) The stated conference fees are in Singapore Dollars and inclusive of
 9% Goods &amp; Services Tax (GST).
