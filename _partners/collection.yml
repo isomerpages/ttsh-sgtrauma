@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Supporting Institutions.md
       - Sponsors.md
       - Sponsorship.md
-      - Supporting Institutions.md
