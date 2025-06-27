@@ -44,8 +44,9 @@ sections:
   - infopic:
       title: Our Sponsors
       id: infopic
-      image: /images/Vendors/Sponsors' Logos/Sponsors_Logo_13_Jun_2025.png
+      image: /images/Vendors/Sponsors' Logos/26_Jun_2025_Sponsors_Mainpage_Update.png
       alt: Image alt text
+      url: /sponsors/
   - infopic:
       title: Discover Our Theme
       id: infopic

@@ -1,5 +1,5 @@
 ---
-title: Sponsorship
+title: Sponsorship Opportunities
 permalink: /sponsorship/
 variant: tiptap
 description: ""
