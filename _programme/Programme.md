@@ -34,8 +34,7 @@ and forge connections that will shape the future of trauma and acute care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme/Day_2__3_.png">
 </div>
-<p>Downloadable copy here: <a href="/files/STACC_2025_Scientific_Programme.pdf" rel="noopener nofollow" target="_blank">STACC 2025 </a>
-<a href="/files/stacc_2025_scientific_programme.pdf" rel="noopener nofollow" target="_blank">Scientific</a><a href="/files/STACC_2025_Scientific_Programme.pdf" rel="noopener nofollow" target="_blank"> Programme</a>
+<p>Downloadable copy here: <a href="/files/stacc_2025_scientific_programme.pdf" rel="noopener noreferrer nofollow" target="_blank">STACC 2025 Scientific Programme</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
